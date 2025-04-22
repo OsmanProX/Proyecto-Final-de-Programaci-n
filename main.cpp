@@ -1,8 +1,8 @@
 #include <iostream>
 #include <string>
 #include "controllers/PacienteController.h"
-#include "../ProyectoPrograma/controllers/MedicoControllers.h"
-#include "../ProyectoPrograma/controllers/CitaControllers.h"
+#include "../Proyecto-Final-de-Programaci-n//controllers/MedicoControllers.h"
+#include "../Proyecto-Final-de-Programaci-n//controllers/CitaControllers.h"
 #include "ODBCConnect/ODBCConnection.h"
 
 void menuPrincipal() {
