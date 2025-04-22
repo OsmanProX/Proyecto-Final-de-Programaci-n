@@ -16,7 +16,7 @@ void menuPrincipal() {
     std::cout << "0. Salir\n";
     std::cout << "Seleccione una opción: ";
 }
-
+// Hola
 int main() {
     ODBCConnection conexion;
     if (!conexion.conectar("", "", "")) {
