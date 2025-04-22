@@ -1,0 +1,10 @@
+# ninja log v6
+161	2156	7668990064082916	CMakeFiles/ProyectoPrograma.dir/Database/Cita.cpp.obj	c724f93cb44eadef
+309	2831	7668990065560720	CMakeFiles/ProyectoPrograma.dir/Database/Medico.cpp.obj	99f1ebb0a887ecbd
+77	3130	7668990063247980	CMakeFiles/ProyectoPrograma.dir/ODBCConnect/ODBCConnection.cpp.obj	156403f176818db0
+236	3941	7668990064835623	CMakeFiles/ProyectoPrograma.dir/controllers/CitaControllers.cpp.obj	52700a8c45afa76e
+387	4449	7668990066351499	CMakeFiles/ProyectoPrograma.dir/controllers/MedicoControllers.cpp.obj	2e4833ca84854f58
+9	1875	7669924041149923	build.ninja	516344367dabd9b9
+156	3766	7669924043391159	CMakeFiles/ProyectoPrograma.dir/Database/Paciente.cpp.obj	a17b658375e2032e
+66	5174	7669924042500700	CMakeFiles/ProyectoPrograma.dir/ODBCConnect/ODBCConnection.cpp.obj	156403f176818db0
+247	5897	7669924044300717	CMakeFiles/ProyectoPrograma.dir/controllers/PacienteController.cpp.obj	b3fc07d257146fc3
